@@ -12,8 +12,7 @@
 
 
 
-## 🌐Socials
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@CodeWhiteWeb](https://guns.lol/berserkerr))
+
 
 ### Computer :> Programs && Tools
 
@@ -82,33 +81,7 @@ fw6
  b1 --o b2
  ```
 
-## Touch Me  ˊ•⌔•ˋ 
 
-|[Discord](https://discord.gg/xm4DN6JTVt)|[Github](https://github.com/DSDmark/)|[LinkIn]()|[DevToCommunity](https://dev.to/dsmark)|[Gmail](sahup3296@gmail.com)|
-|:-|:-|:-|:-|:--|
----
-
-> **Youth is a lie. It is nothing but evil.**
-
-Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them. 
-ʕ •́؈•̀ ₎
-In the face of the word " **Youth**  ", they will twist any common interpretation or accepted notion out of recognition.
-
-In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
-
-If failure is truly the proof of one's youth...
-
-Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.
-
-My conclusion is this All you fools who delight in youth...
-
-> **Be Drop Dead.**
-
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
----
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
